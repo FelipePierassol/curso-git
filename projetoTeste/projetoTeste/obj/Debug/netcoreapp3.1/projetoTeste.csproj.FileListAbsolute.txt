@@ -1,0 +1,10 @@
+/Users/felipepierassol/projetoTeste/projetoTeste/projetoTeste/bin/Debug/netcoreapp3.1/projetoTeste.deps.json
+/Users/felipepierassol/projetoTeste/projetoTeste/projetoTeste/bin/Debug/netcoreapp3.1/projetoTeste.runtimeconfig.json
+/Users/felipepierassol/projetoTeste/projetoTeste/projetoTeste/bin/Debug/netcoreapp3.1/projetoTeste.runtimeconfig.dev.json
+/Users/felipepierassol/projetoTeste/projetoTeste/projetoTeste/bin/Debug/netcoreapp3.1/projetoTeste.dll
+/Users/felipepierassol/projetoTeste/projetoTeste/projetoTeste/bin/Debug/netcoreapp3.1/projetoTeste.pdb
+/Users/felipepierassol/projetoTeste/projetoTeste/projetoTeste/obj/Debug/netcoreapp3.1/projetoTeste.csprojAssemblyReference.cache
+/Users/felipepierassol/projetoTeste/projetoTeste/projetoTeste/obj/Debug/netcoreapp3.1/projetoTeste.AssemblyInfoInputs.cache
+/Users/felipepierassol/projetoTeste/projetoTeste/projetoTeste/obj/Debug/netcoreapp3.1/projetoTeste.AssemblyInfo.cs
+/Users/felipepierassol/projetoTeste/projetoTeste/projetoTeste/obj/Debug/netcoreapp3.1/projetoTeste.dll
+/Users/felipepierassol/projetoTeste/projetoTeste/projetoTeste/obj/Debug/netcoreapp3.1/projetoTeste.pdb
